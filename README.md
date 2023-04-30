@@ -11,3 +11,5 @@ https://github.com/YanG-1989/m3u （gather文件）
 库文件分享地址前面+https://ghproxy.com/
 
 列如：https://ghproxy.com/分享地址
+# 接口说明
+json为tvbox接口
