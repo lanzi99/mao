@@ -16,3 +16,4 @@ json为tvbox接口
 
 多线路（切记区分）可打开、复制里面链接做单线路使用、
  
+iPhone接口视频软件（自签）：https://www.123pan.com/s/imO9-Atw0.html
