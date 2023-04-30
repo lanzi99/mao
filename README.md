@@ -13,3 +13,6 @@ https://github.com/YanG-1989/m3u （gather文件）
 列如：https://ghproxy.com/分享地址
 # 接口说明
 json为tvbox接口
+
+多线路（切记区分）可打开、复制里面链接做单线路使用、
+ 
